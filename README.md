@@ -20,9 +20,9 @@ enjoy! Merry Christmas!
 
 
 P.S. If you are completely new to python - i will run through tthe workflow below, I have anaconda setups on both Linux and Windows
-[download anaconda](https://www.anaconda.com/ "anaconda"); 
+### [download anaconda](https://www.anaconda.com/ "anaconda"); 
 install; 
-run Anaconda powershell; 
+run Anaconda powershell
 
 
 
