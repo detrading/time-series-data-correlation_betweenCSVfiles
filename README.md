@@ -1,6 +1,6 @@
 #time-series-data-correlation_betweenCSVfiles
 
-###### 0_IDEAS_ifYouLikeThisProject.txt
+## 0_IDEAS_ifYouLikeThisProject.txt
 IF you like this project I can potentially update datasets on a daily basis
 -say at 5pm Eastern ( USA ) or earlier I would release a new dataset during the weekdays
 
@@ -32,5 +32,5 @@ run Anaconda powershell
 
 
 
-## MUST CONFIGURE DIRECTORIES ( FILE PATHS ) FOR generateCsvCorrelations.py
-AS I DID NOT DO IT FOR YOU
+## MUST CONFIGURE DIRECTORIES ( FILE PATHS ) FOR generateCsvCorrelations.py -- AS I DID NOT DO IT FOR YOU
+
