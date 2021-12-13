@@ -14,3 +14,9 @@ P.S. If you are completely new to python - i will run through tthe workflow belo
 
 ... to be cont.
 12:33 pm 12-13-2021
+
+
+
+
+MUST CONFIGURE DIRECTORIES ( FILE PATHS ) FOR generateCsvCorrelations.py
+AS I DID NOT DO IT FOR YOU
