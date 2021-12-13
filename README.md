@@ -32,5 +32,5 @@ run Anaconda powershell
 
 
 
-## MUST CONFIGURE DIRECTORIES ( FILE PATHS ) FOR generateCsvCorrelations.py -- AS I DID NOT DO IT FOR YOU
+## MUST CONFIGURE DIRECTORIES ( FILE PATHS ) FOR generateCSV_correlations.py -- AS I DID NOT DO IT FOR YOU
 
