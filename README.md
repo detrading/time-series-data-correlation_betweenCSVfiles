@@ -12,7 +12,7 @@ let me know your thoughts!
 
 
 ## 0_PLEASE_READ_dataset_preface.txt
-# 12/13/2021
+12/13/2021
 the datasets are not great but I am working bettering them going forward
 some interesting insights can surely be gained from the rudimentary data I've provided
 
